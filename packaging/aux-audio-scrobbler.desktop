@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Aux Audio Scrobbler
+Comment=Recognize music from Aux/Line-in or system audio via Shazam and scrobble to Last.fm
+Exec=aux-audio-scrobbler
+Icon=aux-audio-scrobbler
+Categories=AudioVideo;Audio;Music;
+Terminal=false
